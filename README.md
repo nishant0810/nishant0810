@@ -1,15 +1,15 @@
 
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+%3CYour+Name%3E;Software+Engineer+%7C+AI+Engineer;Full+Stack+Developer;Building+Scalable+Products" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+%3CNishant%3E;Software+Engineer+%7C+AI+Engineer;Full+Stack+Developer;Building+Scalable+Products" alt="Typing SVG" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7&text=%20&reversal=false"/>
 
 <br/>
 
-![University](https://img.shields.io/badge/University-<University_Name>-6D28D9?style=for-the-badge)
-![Degree](https://img.shields.io/badge/Degree-<Degree>-7C3AED?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-<City>,<Country>-8B5CF6?style=for-the-badge)
+![University](https://img.shields.io/badge/University-<Graphic Era University>-6D28D9?style=for-the-badge)
+![Degree](https://img.shields.io/badge/Degree-<BTECH>-7C3AED?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-<Dehradun>,<India>-8B5CF6?style=for-the-badge)
 
 <a href="<Portfolio_Link>">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
