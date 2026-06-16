@@ -7,7 +7,7 @@
 
 <br/>
 
-![University](https://img.shields.io/badge/University-<Graphic Era University>-6D28D9?style=for-the-badge)
+![University](https://img.shields.io/badge/University-<Graphic-Era-University>-6D28D9?style=for-the-badge)
 ![Degree](https://img.shields.io/badge/Degree-<BTECH>-7C3AED?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-<Dehradun>,<India>-8B5CF6?style=for-the-badge)
 
