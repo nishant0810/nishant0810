@@ -1,124 +1,149 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Nishant;Software+Engineer+%7C+AI+Engineer+%7C+Backend+Developer;Full+Stack+Developer;Building+Scalable+AI+Systems" />
+# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi+I'm+Nishant;Software+Engineer+%7C+AI+Engineer+%7C+Backend+Developer;Building+Scalable+AI+Systems" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7"/>
 
-<br/>
-
-![University](https://img.shields.io/badge/University-Graphic%20Era%20University-6D28D9?style=for-the-badge)
-![Degree](https://img.shields.io/badge/Degree-B.Tech-7C3AED?style=for-the-badge)
+![University](https://img.shields.io/badge/Graphic%20Era%20University-B.Tech-7C3AED?style=for-the-badge)
 ![Batch](https://img.shields.io/badge/Graduation-2027-8B5CF6?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🧠 About Me
 
-I am **Nishant**, a Software Engineer passionate about building scalable backend systems, AI-powered applications, and full-stack products that solve real-world problems.
+Software Engineer focused on **building scalable backend systems, AI-powered applications, and production-grade full-stack products**.
 
-I focus on designing systems that are:
-- ⚙️ Scalable
-- 🧠 Intelligent (AI-driven)
-- 🔐 Secure
-- 🚀 Production-ready
+I enjoy turning complex problems into **simple, scalable engineering systems**.
 
 ---
 
-## 🎯 Focus Areas
-
-- Full Stack Development (MERN + Spring Boot)
-- Backend System Design & APIs
-- AI & Generative AI Applications
-- Cloud & DevOps Fundamentals
-- Database Design & Optimization
-
----
-
-# 🛠️ Tech Stack
+# ⚙️ Tech Stack
 
 ### 💻 Strong
-`Java` `Spring Boot` `React` `SQL` `MongoDB` `Express` `Node.js`
+`Java` `Spring Boot` `React` `Node.js` `Express` `MongoDB` `SQL`
 
-### ⚙️ Medium
+### ⚙️ Intermediate
 `AWS` `Docker`
 
 ### 📚 Learning
-`Kubernetes` `Agentic AI` `GenAI` `System Design`
+`Kubernetes` `Agentic AI` `Generative AI` `System Design`
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🟣 EasyStore
-**Smart e-commerce platform for small businesses**
-
-- Stack: MERN + Authentication + Payment-ready architecture  
-- Impact: Improved order handling efficiency for small vendors  
-- Scale: ~1000+ interactions simulated  
+E-commerce platform for small businesses  
+- Stack: MERN  
+- Impact: Improved order workflow automation  
 - GitHub: https://github.com/<your-username>/eazystore  
 
 ---
 
 ## 🟣 FinSight
-**AI-based financial insight and risk analysis system**
-
-- Stack: Spring Boot + React + ML integration  
-- Impact: Financial risk scoring automation system  
-- Scale: Real-time data processing pipeline  
+AI-based financial risk analysis system  
+- Stack: Spring Boot + ML  
+- Impact: Automated risk scoring system  
 - GitHub: https://github.com/<your-username>/finsight  
 
 ---
 
 ## 🟣 DrawBoard AI
-**AI-powered collaborative drawing & annotation tool**
-
-- Stack: React + Canvas API + AI integration  
-- Impact: Real-time collaboration with AI suggestions  
-- Scale: Multi-user interactive sessions  
+Real-time AI collaborative drawing tool  
+- Stack: React + Canvas + AI APIs  
+- Impact: Multi-user real-time collaboration  
 - GitHub: https://github.com/<your-username>/drawboard-ai  
 
 ---
 
 ## 🟣 Diabetes Risk Prediction
-**Machine learning-based health risk predictor**
-
-- Stack: Python + ML (Scikit-learn / Pandas)  
-- Impact: Predicts diabetes risk with trained dataset model  
-- Scale: Data-driven health classification system  
-- GitHub: https://github.com/<your-username>/diabetes-risk-prediction  
+ML-based health prediction system  
+- Stack: Python + ML  
+- Impact: Early disease risk prediction model  
+- GitHub: https://github.com/<your-username>/diabetes-risk  
 
 ---
 
-## 🟣 Stationery Shop Management System
-**Inventory and billing system for local shops**
+## 🟣 Stationery Shop System
+Inventory + billing system  
+- Stack: Java + Spring Boot + MySQL  
+- Impact: Reduced manual billing effort  
+- GitHub: https://github.com/<your-username>/stationery-shop  
 
-- Stack: Java + MySQL + Spring Boot  
-- Impact: Reduced manual billing effort and improved tracking  
-- Scale: Store-level inventory automation system  
-- GitHub: https://github.com/<your-username>/stationery-shop-management  
+---
+
+# 🎮 Interactive Zone
+
+---
+
+## 🐍 Contribution Snake Game
+<div align="center">
+<img src="https://raw.githubusercontent.com/<GitHub_Username>/<GitHub_Username>/output/github-contribution-grid-snake.svg"/>
+</div>
+
+---
+
+## 🟡 Arcade Contribution View
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
+
+## 🐱 Developer Companion
+<div align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+</div>
+
+---
+
+## 💡 Random Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight"/>
+</p>
+
+---
+
+## 😄 Developer Humor
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=<GitHub_Username>&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=<GitHub_Username>&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<GitHub_Username>&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 # 🏆 Achievements
 
-- 🏅 LeetCode: `<Your Rating / Rank Here>`
-- 🧠 Competitive Programming: `<Contest achievements>`
-- 🏆 Hackathons: `<Hackathon wins / participation>`
-- 📜 Certifications: `<AWS / Other certifications>`
-- 📊 Academic: `<Percentile / CGPA / Rank>`
+- 🏅 LeetCode: `<Add Later>`
+- 🧠 Hackathons: `<Add Later>`
+- 📜 Certifications: `<Add Later>`
+- 📊 Academic Performance: `<Add Later>`
 
 ---
 
-# 🔗 Connect With Me
+# 🔗 Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/<your-username>
-- 💻 GitHub: https://github.com/<your-username>
-- 🧠 LeetCode: https://leetcode.com/<your-username>
-- 🧑‍💻 CodeChef: https://codechef.com/users/<your-username>
-- 📘 GeeksforGeeks: https://auth.geeksforgeeks.org/user/<your-username>
-- 📊 HackerRank: https://hackerrank.com/<your-username>
+- 💼 LinkedIn: https://linkedin.com/in/<username>
+- 💻 GitHub: https://github.com/<GitHub_Username>
+- 🧠 LeetCode: https://leetcode.com/<username>
+- 📧 Email: `<your-email>`
 
 ---
 
@@ -129,24 +154,23 @@ learning:
   - System Design
   - Agentic AI
   - Kubernetes
-  - Advanced Backend Architectures
 
 building:
-  - AI-powered SaaS applications
-  - Scalable backend systems
-  - Full-stack production projects
+  - AI SaaS Products
+  - Full Stack Apps
+  - Backend Systems
 
 exploring:
-  - LLM applications
-  - Distributed systems
-  - Cloud-native architectures
+  - LLM Applications
+  - Distributed Systems
+  - Cloud Architecture
 ```
 
 ---
 
 <div align="center">
 
-> *“Build systems that scale, learn relentlessly, and create impact through code.”*
+> *“Build systems that scale. Learn continuously. Ship consistently.”*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4F46E5,50:7C3AED,100:A855F7"/>
 
