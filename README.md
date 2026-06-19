@@ -36,7 +36,7 @@ I enjoy turning complex problems into **simple, scalable engineering systems**.
 
 ## 🟣 StickerLy
 E-commerce platform for Buying Stickers  
-- Stack: MERN  
+- Stack: JAVA-FULLSTACK
 - Impact: Improved order workflow automation  
 - GitHub: https://github.com/nishant0810/StickerLy 
 
