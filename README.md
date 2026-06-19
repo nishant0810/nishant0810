@@ -34,11 +34,11 @@ I enjoy turning complex problems into **simple, scalable engineering systems**.
 
 # 🚀 Featured Projects
 
-## 🟣 EasyStore
-E-commerce platform for small businesses  
+## 🟣 StickerLy
+E-commerce platform for Buying Stickers  
 - Stack: MERN  
 - Impact: Improved order workflow automation  
-- GitHub: https://github.com/<your-username>/eazystore  
+- GitHub: https://github.com/nishant0810/StickerLy 
 
 ---
 
