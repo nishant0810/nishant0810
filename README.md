@@ -77,12 +77,16 @@ Inventory + billing system
 # 🎮 Interactive Zone
 
 ---
+## 📈 Developer Metrics
 
-## 🐍 Contribution Snake Game
 <div align="center">
-<img src="https://raw.githubusercontent.com/<GitHub_Username>/<GitHub_Username>/output/github-contribution-grid-snake.svg"/>
-</div>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=<GitHub_Username>&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=<GitHub_Username>&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=<GitHub_Username>&theme=tokyonight"/>
+
+</div>
 ---
 
 ## 🟡 Arcade Contribution View
