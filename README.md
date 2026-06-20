@@ -46,7 +46,7 @@ E-commerce platform for Buying Stickers
 AI-based financial risk analysis system  
 - Stack: Spring Boot + ML  
 - Impact: Automated risk scoring system  
-- GitHub: https://github.com/<your-username>/finsight  
+- GitHub: https://github.com/nishant0810/finsight  
 
 ---
 
@@ -54,7 +54,7 @@ AI-based financial risk analysis system
 Real-time AI collaborative drawing tool  
 - Stack: React + Canvas + AI APIs  
 - Impact: Multi-user real-time collaboration  
-- GitHub: https://github.com/<your-username>/drawboard-ai  
+- GitHub: https://github.com/nishant0810/drawboard-ai  
 
 ---
 
@@ -62,7 +62,7 @@ Real-time AI collaborative drawing tool
 ML-based health prediction system  
 - Stack: Python + ML  
 - Impact: Early disease risk prediction model  
-- GitHub: https://github.com/<your-username>/diabetes-risk  
+- GitHub: https://github.com/nishant0810/diabetes-risk  
 
 ---
 
@@ -70,7 +70,7 @@ ML-based health prediction system
 Inventory + billing system  
 - Stack: Java + Spring Boot + MySQL  
 - Impact: Reduced manual billing effort  
-- GitHub: https://github.com/<your-username>/stationery-shop  
+- GitHub: https://github.com/nishant0810/stationery-shop  
 
 ---
 
