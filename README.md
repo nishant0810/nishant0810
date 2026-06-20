@@ -1,181 +1,176 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi+I'm+Nishant;Software+Engineer+%7C+AI+Engineer+%7C+Backend+Developer;Building+Scalable+AI+Systems" />
+# 👋 Hi, I'm Nishant
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+### Software Engineer • AI Engineer • Backend Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Developing+AI-Powered+Applications;Spring+Boot+%7C+React+%7C+Cloud+%7C+LLMs" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,50:7C3AED,100:A855F7"/>
 
 ![University](https://img.shields.io/badge/Graphic%20Era%20University-B.Tech-7C3AED?style=for-the-badge)
-![Batch](https://img.shields.io/badge/Graduation-2027-8B5CF6?style=for-the-badge)
+![Graduation](https://img.shields.io/badge/Graduating-2027-8B5CF6?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blueviolet?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 🚀 About Me
 
-Software Engineer focused on **building scalable backend systems, AI-powered applications, and production-grade full-stack products**.
+I'm a software engineer passionate about designing **high-performance backend systems, AI-driven products, and scalable full-stack applications**.
 
-I enjoy turning complex problems into **simple, scalable engineering systems**.
+I enjoy transforming complex ideas into clean, production-ready solutions by combining modern software engineering with practical AI.
 
----
-
-# ⚙️ Tech Stack
-
-### 💻 Strong
-`Java` `Spring Boot` `React` `Node.js` `Express` `MongoDB` `SQL`
-
-### ⚙️ Intermediate
-`AWS` `Docker`
-
-### 📚 Learning
-`Kubernetes` `Agentic AI` `Generative AI` `System Design`
+* 🔭 Building full-stack AI applications
+* 🌱 Exploring Agentic AI, Kubernetes, and distributed systems
+* 💡 Interested in fintech, developer tools, and SaaS platforms
+* ⚡ Strong believer in learning by building
 
 ---
 
-# 🚀 Featured Projects
+# 🛠️ Tech Stack
 
-## 🟣 StickerLy
-E-commerce platform for Buying Stickers  
-- Stack: JAVA-FULLSTACK
-- Impact: Improved order workflow automation  
-- GitHub: https://github.com/nishant0810/StickerLy 
+### Languages
 
----
+`Java` `JavaScript` `TypeScript` `Python` `SQL`
 
-## 🟣 FinSight
-AI-based financial risk analysis system  
-- Stack: Spring Boot + ML  
-- Impact: Automated risk scoring system  
-- GitHub: https://github.com/nishant0810/finsight  
+### Backend
 
----
+`Spring Boot` `Spring Security` `Node.js` `Express`
 
-## 🟣 DrawBoard AI
-Real-time AI collaborative drawing tool  
-- Stack: React + Canvas + AI APIs  
-- Impact: Multi-user real-time collaboration  
-- GitHub: https://github.com/nishant0810/drawboard-ai  
+### Frontend
 
----
+`React` `Redux Toolkit` `Tailwind CSS` `Vite`
 
-## 🟣 Diabetes Risk Prediction
-ML-based health prediction system  
-- Stack: Python + ML  
-- Impact: Early disease risk prediction model  
-- GitHub: https://github.com/nishant0810/diabetes-risk  
+### Databases
+
+`MySQL` `MongoDB`
+
+### AI & ML
+
+`Google Gemini` `Generative AI` `Agentic AI`
+
+### Cloud & DevOps
+
+`AWS` `Docker` `Git` `GitHub`
+
+### Currently Learning
+
+`Kubernetes` `System Design` `Microservices`
 
 ---
 
-## 🟣 Stationery Shop System
-Inventory + billing system  
-- Stack: Java + Spring Boot + MySQL  
-- Impact: Reduced manual billing effort  
-- GitHub: https://github.com/nishant0810/stationery-shop  
+# 🌟 Featured Projects
+
+## 🚀 FinSight AI
+
+**Agentic Financial Intelligence Platform**
+
+* AI-powered loan underwriting and fraud detection
+* Google Gemini financial copilot
+* Spring Boot + React + Flask architecture
+* Explainable risk scoring and portfolio analytics
+
+**Tech:** `Spring Boot` `React` `Flask` `MySQL` `Gemini`
 
 ---
 
-# 🎮 Interactive Zone
+## 🎨 DrawBoard AI
 
----
-## 📈 Developer Metrics
+**Visual Thinking Workspace**
 
-<div align="center">
+* Infinite collaborative canvas powered by Tldraw
+* AI-generated flashcards, diagrams, and concept maps
+* Multi-provider AI architecture with Gemini integration
+* Mermaid-powered visual knowledge rendering
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=<GitHub_Username>&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=<GitHub_Username>&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=<GitHub_Username>&theme=tokyonight"/>
-
-</div>
----
-
-## 🟡 Arcade Contribution View
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+**Tech:** `React` `TypeScript` `Node.js` `Tldraw`
 
 ---
 
-## 🐱 Developer Companion
-<div align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
-</div>
+## 🛒 EazyStore
+
+**Modern Full-Stack E-Commerce Platform**
+
+* JWT authentication and RBAC
+* Stripe payment integration
+* Dockerized deployment
+* Responsive shopping experience with scalable backend APIs
+
+**Tech:** `Spring Boot` `React` `MySQL` `Docker`
 
 ---
 
-## 💡 Random Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight"/>
-</p>
+## 🏥 Diabetes Risk Prediction
 
----
+* Machine learning–based health risk assessment
+* Predictive analytics using medical datasets
+* Interactive prediction interface
 
-## 😄 Developer Humor
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api"/>
-</p>
+**Tech:** `Python` `Scikit-learn`
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=<GitHub_Username>&show_icons=true&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=<GitHub_Username>&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<GitHub_Username>&layout=compact&theme=tokyonight"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🏆 Achievements
 
-- 🏅 LeetCode: `<Add Later>`
-- 🧠 Hackathons: `<Add Later>`
-- 📜 Certifications: `<Add Later>`
-- 📊 Academic Performance: `<Add Later>`
+* 🥇 Solved **500+ Data Structures & Algorithms** problems across coding platforms
+* 🌍 Ranked in the **Top 10% globally (4,698 / 43,027 participants)** in a LeetCode Weekly Contest
+* ☁️ **AWS Certified Cloud Practitioner**
+* 🏅 **AWS Certified AI Practitioner**
 
 ---
 
-# 🔗 Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/<username>
-- 💻 GitHub: https://github.com/<GitHub_Username>
-- 🧠 LeetCode: https://leetcode.com/<username>
-- 📧 Email: `<your-email>`
-
----
-
-# ⚡ Current Focus
+# 🎯 Current Focus
 
 ```yaml
 learning:
+  - Kubernetes
   - System Design
   - Agentic AI
-  - Kubernetes
 
 building:
-  - AI SaaS Products
-  - Full Stack Apps
-  - Backend Systems
+  - AI SaaS Platforms
+  - FinTech Applications
+  - Full-Stack Products
 
 exploring:
-  - LLM Applications
+  - Large Language Models
   - Distributed Systems
-  - Cloud Architecture
+  - Cloud-Native Architectures
 ```
+
+---
+
+# 🌐 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+* 🧩 LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME
+* 📧 Email: [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
 
 ---
 
 <div align="center">
 
-> *“Build systems that scale. Learn continuously. Ship consistently.”*
+### ⭐ Thanks for visiting my profile!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+> **"Build scalable systems. Keep learning. Ship impactful products."**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,50:7C3AED,100:A855F7"/>
 
 </div>
